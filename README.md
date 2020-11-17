@@ -21,7 +21,7 @@ Hi! Thanks for checking out my source code! 😄
 [5]: https://apps.apple.com/
 [6]: https://twitter.com/gauravadhikari_
 
-<p align="center"><a target="_blank" href="https://gauravadhikari.com"><img src="https://github.com/gauravadhikari1997/gauravadhikari1997/blob/main/GauravAdhikari.gif" alt="Gaurav's Banner"></a></p>   
+<p align="center"><a target="_blank" href="https://gauravadhikari.com"><img src="https://github.com/gauravadhikari1997/gauravadhikari1997/blob/main/GauravAdhikari.png" alt="Gaurav's Banner"></a></p>   
 
 ![](https://komarev.com/ghpvc/?username=gauravadhikari1997&color=bf5fff)
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Gaurav</h1>
